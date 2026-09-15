@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hallo, ich bin Thomas! 👋
 
-<!--
-**heddes-python-dev/heddes-python-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ich baue meine Identität und meine Fähigkeiten als **Python-Entwickler** und System-Enthusiast auf. Mein Fokus liegt auf praxisnahen, sauberen Automatisierungs- und Überwachungslösungen für Linux- und Windows-Umgebungen.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Werkzeuge
+* **Programmiersprachen:** Python
+* **Systeme & Tools:** Linux, Git / GitHub, Bash
+* **Architektur:** Modulare Skripte, Thread-sichere GUIs (Tkinter), plattformübergreifende Tools
+
+---
+
+### 📌 Aktuelles Projekt
+* **[system-monitor](https://github.com/heddes-python-dev/system-monitor)**: Ein modularer Systemmonitor zur Überwachung von CPU, RAM, Festplatten und Temperatur mit optionaler Benachrichtigung und Log-Rotation.
+
+---
+
+### 💬 Austausch & Community
+Ich bin aktiv auf der Suche nach fachlichem Austausch, Best Practices und spannenden IT-Diskussionen (u. a. auf Plattformen wie `administrator.de`).
