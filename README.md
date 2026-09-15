@@ -12,7 +12,7 @@ Ich baue meine Identität und meine Fähigkeiten als **Python-Entwickler** und S
 ---
 
 ### 📌 Aktuelles Projekt
-* **[system-monitor](https://github.com/heddes-python-dev/system-monitor)**: Ein modularer Systemmonitor zur Überwachung von CPU, RAM, Festplatten und Temperatur mit optionaler Benachrichtigung und Log-Rotation.
+* **[system-monitor](https://github.com/heddes-python-dev/system_monitor)**: Ein modularer Systemmonitor zur Überwachung von CPU, RAM, Festplatten und Temperatur mit optionaler Benachrichtigung und Log-Rotation.
 
 ---
 
