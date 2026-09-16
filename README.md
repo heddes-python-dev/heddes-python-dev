@@ -13,7 +13,7 @@ Ich baue meine Identität und meine Fähigkeiten als **Python-Entwickler** und S
 
 ### 📌 Aktuelle Projekte / Admin-Tool-Suite
 * **[system-monitor](https://github.com/heddes-python-dev/system_monitor)**: Ein modularer Systemmonitor zur Überwachung von CPU, RAM, Festplatten und Temperatur mit optionaler Benachrichtigung und Log-Rotation.
-* **[netzwerk-monitor](https://github.com/heddes-python-dev/netzwerk-monitor)**: Ein Tool zur Überwachung von Netzwerkverbindungen, Host-Erreichbarkeit und Latenzen mit grafischer Benutzeroberfläche.
+* **[netzwerk-monitor](https://github.com/heddes-python-dev/netzwerk_monitor)**: Ein Tool zur Überwachung von Netzwerkverbindungen, Host-Erreichbarkeit und Latenzen mit grafischer Benutzeroberfläche.
 
 ---
 
